@@ -15,6 +15,7 @@ This introductory readme file is both part of the published dataset and part of 
 [massimal-dataset](https://github.com/mh-skjelvareid/massimal-dataset) GitHub
 repository. Any updates to the file will be posted to the repository. 
 
+
 ## The MASSIMAL Research project 
 The MASSIMAL dataset was collected as part of the MASSIMAL project (Mapping of Algae and
 Seagrass using Spectral Imaging and Machine Learning). The main goal of the project was
