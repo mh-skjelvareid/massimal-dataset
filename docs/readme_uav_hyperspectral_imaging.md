@@ -51,7 +51,7 @@ Additional information about the project can be found on the following websites:
 
   
 ## Hyperspectral imaging system
-Hyperspectral imaging was performed using a "[Airborne Remote Sensing
+Hyperspectral imaging was performed using an "[Airborne Remote Sensing
 System](https://resonon.com/hyperspectral-airborne-remote-sensing-system)" manufactured
 by Resonon. The system was configured with the following components:
 
