@@ -36,6 +36,7 @@ UiT the Arctic University of Norway, the Norwegian Institute for Water Research,
 University. 
 
 Additional information about the project can be found on the following websites:
+
 - [UiT project page](https://en.uit.no/project/massimal)
 - [Cristin research database project
   page](https://app.cristin.no/projects/show.jsf?id=2054355)
