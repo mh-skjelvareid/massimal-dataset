@@ -1,3 +1,5 @@
+[![DOI](https://img.shields.io/badge/DOI-10.11582/2025.00041-blue)](https://doi.org/10.11582/2025.00041)
+
 # MASSIMAL: A multimodal dataset for coastal habitat mapping in Norway
 
 ## Summary
