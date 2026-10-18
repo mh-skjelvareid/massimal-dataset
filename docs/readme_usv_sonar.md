@@ -49,6 +49,19 @@ Sounder](https://www.biosonicsinc.com/products/mx-aquatic-habitat-echosounder/) 
 information related to submerged aquatic vegetation and seafloor substrates, in
 addition to bathymetry ("single-beam").
 
+## Length of USV tracks
+The following table lists the approximate length of the USV tracks (estimated using a length tool in QGIS), and the number of corresponding geotagged images, for separate datasets.
+
+| Area, location               | Length of USV track (km) | Number of geotagged images |
+| ---------------------------- | ------------------------ | -------------------------- |
+| Smøla, Skalmen               | 12.5                     | 10700                      |
+| Smøla, Måholmen              | 13.3                     | 12173                      |
+| Vega, Søla                   | 7.5                      | 9322                       |
+| Larvik, Kongsbakkebukta      | 2.2                      | 2847                       |
+| Larvik, Ølbergholmen (2023)  | 6.3                      | 6653                       |
+| Larvik, Terneholmen          | 10.3                     | 5351                       |
+
+
 ## Raw data
 Raw data for a single dataset is saved as a collection of files with the following
 format: `<yyyymmdd_HHMMSS>_mx.rtpx`, where `yyyymmdd_HHMMSS` corresponds to the date and

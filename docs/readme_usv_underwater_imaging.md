@@ -123,3 +123,18 @@ This algorithm often results in less green tint and a more visually pleasing ima
 Note, however, that for images where the contrast in the original image is very low
 (i.e. at large water depths), the algorithm can result in "extreme" contrast and
 odd-looking images. 
+
+
+## Length of USV tracks
+The following table lists the approximate length of the USV tracks (estimated using a length tool in QGIS), and the number of corresponding geotagged images, for separate datasets.
+
+| Area, location               | Length of USV track (km) | Number of geotagged images |
+| ---------------------------- | ------------------------ | -------------------------- |
+| Smøla, Skalmen               | 12.5                     | 10700                      |
+| Smøla, Måholmen              | 13.3                     | 12173                      |
+| Vega, Søla                   | 7.5                      | 9322                       |
+| Larvik, Kongsbakkebukta      | 2.2                      | 2847                       |
+| Larvik, Ølbergholmen (2023)  | 6.3                      | 6653                       |
+| Larvik, Terneholmen          | 10.3                     | 5351                       |
+
+At Smøla and at Larvik, Terneholmen most of the images contain very little information - mostly due to deep waters at Smøla and high water CDOM content at Terneholmen. The other datasets generally have higher image quality.
