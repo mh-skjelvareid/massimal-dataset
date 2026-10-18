@@ -177,3 +177,7 @@ cython_debug/
 *.icp
 *.dcp
 *_draft*
+
+# Custom (MHS)
+*.code-workspace
+notebooks/preliminary/
